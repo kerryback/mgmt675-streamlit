@@ -48,7 +48,7 @@ pydeck==0.9.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.1
-pywin32==310
+pywin32==310; platform_system == "Windows"
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.23.1
