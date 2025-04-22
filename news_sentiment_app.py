@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import openai
 from datetime import datetime
-import os
 
 
 # Set page title and configuration
